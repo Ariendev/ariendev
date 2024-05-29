@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allen</h1>
-<h3 align="center">I'm a Graphics Programmer & Technical Artist from Sweden, Currently working on an Indie Third-person Shooter called [In Style](https://store.steampowered.com/app/2682490/In_Style/) </h3>
+<h2 align="center">I'm a Graphics Programmer & Technical Artist from Sweden, Currently working on an Indie Third-person Shooter called In Style </h2>
 
 
 
