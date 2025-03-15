@@ -1,10 +1,7 @@
 <h1 align="center">Heya!, I'm Allen</h1>
-<h2 align="center">A Graphics Programmer & Technical Artist from Sweden. </h2>
+<h2 align="center">An Aspiring Technical Artist from Sweden. </h2>
 
 I like to mess around with algorithms and shader effects. Most of my repos are unfinished projects but i'll try to publish more :D
-
-- 🔭 I’m currently working on [In Style](https://store.steampowered.com/app/2682490/In_Style/)
-- 🌱 I’m currently learning **C++ & Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
